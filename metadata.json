@@ -1,0 +1,6 @@
+{
+  "name": "Simon Memory Trainer",
+  "description": "Juego de memoria Simon interactivo con sonidos, frases de aliento, beneficios para la memoria de trabajo y soporte multilingüe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
